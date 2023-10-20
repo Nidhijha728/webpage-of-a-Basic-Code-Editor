@@ -1,0 +1,21 @@
+/* BEM Methodology */
+.code-editor {
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 20px;
+}
+
+.code-toolbar {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.code-display {
+    font-family: 'Courier New', monospace;
+    background-color: #f1f1f1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
